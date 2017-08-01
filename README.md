@@ -4,4 +4,4 @@ A WeChat Applet demo
 - Reader
 - Movie
 
-![/images/welcome-view.png]("/images/welcome-view.png")
+![预览](/images/welcome.png)
